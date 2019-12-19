@@ -1,0 +1,4 @@
+baseURL = "http://fairness.coop/"
+languageCode = "fr-fr"
+DefaultContentLanguage = "fr"
+title = "Mon premier site Hugo"
