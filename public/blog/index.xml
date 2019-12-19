@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mon blog on Mon premier site Hugo</title>
+    <link>http://fairness.coop/blog/</link>
+    <description>Recent content in Mon blog on Mon premier site Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://fairness.coop/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bienvenue sur le site golang.fr</title>
+      <link>http://fairness.coop/blog/accueil/</link>
+      <pubDate>Fri, 09 Jun 2017 15:35:07 +0200</pubDate>
+      
+      <guid>http://fairness.coop/blog/accueil/</guid>
+      <description>salut</description>
+    </item>
+    
+    <item>
+      <title>un test</title>
+      <link>http://fairness.coop/blog/test/</link>
+      <pubDate>Fri, 09 Jun 2017 15:35:07 +0200</pubDate>
+      
+      <guid>http://fairness.coop/blog/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
